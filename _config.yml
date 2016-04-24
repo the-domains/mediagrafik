@@ -1,6 +1,6 @@
 name: Médiagrafik
 favicon: null
-layout_spectrum: 0.8757296213880181
+layout_spectrum: 0.86248
 typography_spectrum: 0.3456768924370408
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#f6fafb'
+    - '#7ebee1'
+    - '#2166a2'
+    - '#144502'
+    - '#bff161'
   brandStrength: 0.7180358422920108
   lightness: 0.22715132543817163
   saturation: 0.5738313111942261
