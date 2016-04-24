@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Design graphique à Montréal
-datePublished: '2016-04-24T21:08:32.335Z'
-dateModified: '2016-04-24T21:08:19.941Z'
+datePublished: '2016-04-24T21:12:58.801Z'
+dateModified: '2016-04-24T21:12:58.576Z'
+title: ''
+author: []
+sourcePath: _posts/2016-04-24-design-graphique-a-montreal.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-04-24-design-graphique-a-montreal.md
-published: true
 url: design-graphique-a-montreal/index.html
 _type: Article
 
